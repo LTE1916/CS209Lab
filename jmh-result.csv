@@ -1,0 +1,3 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"tutorial.lab7.Test.testAccountLock","avgt",1,3,1531.957400,763.146468,"ms/op"
+"tutorial.lab7.Test.testAccountSync","avgt",1,3,1536.055943,335.803055,"ms/op"
